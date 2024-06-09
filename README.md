@@ -13,11 +13,9 @@ It is a very useful tool where you can convert one currency type to other. You c
 
 ## Demo
 
-Include a live demo link if available or add a GIF/Screenshot to show a preview of the project.
-
-![Demo Screenshot](image.png)
-
 ### [Live Demo](https://raunak7t.github.io/currency-converter-pro/)
+
+[![Demo Screenshot](image.png)](https://raunak7t.github.io/currency-converter-pro/)
 
 ## Features
 
